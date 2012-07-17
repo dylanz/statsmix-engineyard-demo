@@ -1,0 +1,7 @@
+== StatsMix Engine Yard Demo
+
+Demo of using StatsMix with an application on Engine Yard.
+
+http://www.statsmix.com
+
+http://www.engineyard.com/partner/statsmix
